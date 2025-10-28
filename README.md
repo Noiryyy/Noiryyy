@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Line](https://github.com/noiryyy/noiryyy/assets/test.png)
+![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/test.png)
 <!--
 **Noiryyy/Noiryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
