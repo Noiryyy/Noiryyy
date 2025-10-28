@@ -13,6 +13,38 @@
 
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
 
+### My Stack:
+✌ Different technologies that I use at work
+
+[![My Skills](https://skillicons.dev/icons?i=java,git,mysql,postgres,gradle,maven,sqlite)](https://skillicons.dev)
+
+![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
+
+
+### Minecraft Libraries:
+💜What libraries I am use in my projects:
+
+![Forge](https://img.shields.io/badge/-Forge-8A2BE2?style=for-the-badge)
+![Bukkit](https://img.shields.io/badge/-Bukkit-7B68EE?style=for-the-badge)
+
+![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
+
+### Operating Systems:
+🤍My operating systems:
+
+![Windows](https://img.shields.io/badge/-Windows-FF6347?style=for-the-badge&logo=windows&logoColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge&logo=linux&logoColor=000000)
+
+![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
+
+### My Socials:
+💬 Ask me about ...:
+
+[![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/1049757090924732499)
+[![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)](noiryyydev@gmail.com)
+
+# ⭐Leave stars on the projects that you liked!
+
 <!--
 **Noiryyy/Noiryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
