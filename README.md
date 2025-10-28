@@ -6,9 +6,13 @@
 
 ![Header](https://github.com/noiryyy/noiryyy/blob/main/assets/header.gif)
 
+### Programming Languages:
+🧡What programming languages I am learn:
+
+![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)
+
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
 
-### My stack:
 <!--
 **Noiryyy/Noiryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
