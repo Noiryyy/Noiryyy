@@ -37,7 +37,7 @@
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
 
 ### My Socials:
-💬 Ask me about ...:
+💬 Ask me about:
 
 [![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/1049757090924732499)
 [![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)](noiryyydev@gmail.com)
