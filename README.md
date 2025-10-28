@@ -1,5 +1,7 @@
 ## 👋 Hello! I am Noiryyy.exe
 
+![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/header.gif)
+
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
 
 ### My stack:
