@@ -1,6 +1,8 @@
-## Hi there 👋
+## 👋 Hello! I am Noiryyy.exe
 
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
+
+### My stack:
 <!--
 **Noiryyy/Noiryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
