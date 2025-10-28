@@ -1,5 +1,9 @@
 ## 👋 Hello! I am Noiryyy.exe
 
+### 🌙 I’m currently learning Java and make different minecraft plugins and mods!
+
+### 💦 All of my projects are available at https://github.com/noiryyy
+
 ![Header](https://github.com/noiryyy/noiryyy/blob/main/assets/header.gif)
 
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
