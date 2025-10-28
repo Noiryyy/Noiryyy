@@ -33,7 +33,6 @@
 🤍My operating systems:
 
 ![Windows](https://img.shields.io/badge/-Windows-FF6347?style=for-the-badge&logo=windows&logoColor=000000)
-![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge&logo=linux&logoColor=000000)
 
 ![Line](https://github.com/noiryyy/noiryyy/blob/main/assets/sepparator.png)
 
